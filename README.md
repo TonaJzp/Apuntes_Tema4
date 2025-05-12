@@ -4,9 +4,10 @@
 
 ## Índice del proyecto
 
-- [1. Comandos básicos de Git](comandos-git/comandos-git.md)
-- [2. Documentación con Javadoc](javadoc/javadoc.md)
-- [3. Optimización de código](optimizacion/optimizacion.md)
+- [1. Comandos básicos de Git](comandos-git.md)
+- [2. Documentación con Javadoc](javadoc.md)
+- [3. Optimización de código](optimizacion.md)
+
 
 ---
 
