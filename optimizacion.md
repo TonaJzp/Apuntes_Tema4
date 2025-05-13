@@ -149,6 +149,6 @@ La optimización no es solo cuestión de velocidad. Es cuestión de claridad, es
 ---
 
 **Autor:** Tona Jzp  
-**Proyecto:** Apuntes Tema 4 - Optimización y refactorización  
+**Proyecto:** Apuntes Tema 4 - Optimización y refactorización.  
 
 
