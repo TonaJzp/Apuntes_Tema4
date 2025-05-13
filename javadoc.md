@@ -136,34 +136,6 @@ El contenido generado estará en la carpeta `doc`.
 ```bash
 javadoc -d doc -author -version -private Estudiante.java
 ```
-
----
-
-## 📸 Capturas recomendadas
-
-Guarda tus capturas en `javadoc/img` y referencia aquí:
-
-### 🔹 Comentarios Javadoc en el código
-
-```text
-Fragmento de clase Estudiante comentada
-```
-![comentarios](img/comentarios-javadoc.png)
-
-### 🔹 Ejecución del comando en consola
-
-```text
-javadoc -d doc Estudiante.java
-```
-![javadoc-terminal](img/javadoc-generado.png)
-
-### 🔹 Vista del HTML generado
-
-```text
-Captura del archivo index.html abierto en el navegador
-```
-![html](img/javadoc-html.png)
-
 ---
 
 ## 🧑‍🏫 Casos de uso en proyectos reales
@@ -201,4 +173,4 @@ Javadoc es una herramienta fundamental para crear proyectos Java bien documentad
 
 **Autor:** Tona Jzp  
 **Proyecto:** Apuntes Tema 4 - Javadoc  
-**Fecha:** Mayo 2025
+
