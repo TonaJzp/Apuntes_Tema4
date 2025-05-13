@@ -123,21 +123,6 @@ Si la prueba sigue funcionando tras refactorizar, el cambio fue seguro.
 
 ---
 
-## 📸 Capturas sugeridas
-
-Guarda tus capturas en `optimizacion/img`:
-
-### 🔹 Refactorización en el IDE
-![refactor-id](img/refactor-id.png)
-
-### 🔹 Informe de SonarQube
-![sonarqube](img/sonarqube-analisis.png)
-
-### 🔹 Prueba unitaria ejecutada
-![test](img/test-ejecutado.png)
-
----
-
 ## 📚 Recursos recomendados
 
 - [Refactoring.Guru](https://refactoring.guru/es)
@@ -165,5 +150,5 @@ La optimización no es solo cuestión de velocidad. Es cuestión de claridad, es
 
 **Autor:** Tona Jzp  
 **Proyecto:** Apuntes Tema 4 - Optimización y refactorización  
-**Fecha:** Mayo 2025
+
 
