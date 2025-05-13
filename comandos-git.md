@@ -71,6 +71,10 @@ git checkout main
 git merge comandos-git
 ```
 
+Aquí puedes ver un ejemplo del comando `git merge` fusionando la rama `comandos-git` con `main`:
+
+![git merge](Imagenes/image9.png)
+
 ---
 
 ## 🧪 Control de versiones con Git
@@ -81,33 +85,13 @@ Los sistemas como Git permiten:
 - Colaborar sin sobrescribir archivos ajenos.
 - Ramificar y experimentar sin riesgo.
 
----
+En la siguiente imagen, se muestra el resultado de ejecutar `git status`, donde se visualizan los archivos sin seguimiento:
 
-## 📸 Capturas recomendadas
+![git status](Imagenes/image2.png)
 
-Guarda tus imágenes en `comandos-git/img` y referencia aquí:
+En la siguiente imagen, se muestra el resultado de ejecutar `git add`, donde se preparan los cambios para el commit:
 
-### 🔹 Inicialización de repositorio
-
-```text
-Captura de terminal mostrando:
-git init
-```
-![git init](img/git-init.png)
-
-### 🔹 Estado del repositorio
-
-```text
-git status mostrando archivos sin seguimiento
-```
-![git status](img/git-status.png)
-
-### 🔹 Visualización de historial
-
-```text
-git log mostrando commits con hash, autor y mensaje
-```
-![git log](img/git-log.png)
+![git add](Imagenes/image6.png)
 
 ---
 
@@ -118,6 +102,14 @@ git log mostrando commits con hash, autor y mensaje
 3. Crea una rama `experimento`, modifica el archivo y haz commit.
 4. Vuelve a `main` y fusiónala.
 5. Verifica el historial con `git log`.
+
+Aquí se muestra el comando `git log` mostrando el historial de commits con hash, autor y mensaje:
+
+![git log](Imagenes/image3.png)
+
+Aquí se muestra el resultado de un `git push`, demostrando cómo se suben los cambios al repositorio remoto:
+
+![git push](Imagenes/image7.png)
 
 ---
 
@@ -155,4 +147,3 @@ target/
 
 **Autor:** Tona Jzp  
 **Proyecto:** Apuntes de Git, Javadoc y Optimización  
-**Fecha:** Mayo 2025
